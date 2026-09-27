@@ -29,7 +29,7 @@ Quando isso acontece, o primeiro número corresponde ao MDC.
 
 ```
 .
-├── principal.c
+├── mdc.c
 └── README.md
 ```
 
@@ -38,13 +38,13 @@ Quando isso acontece, o primeiro número corresponde ao MDC.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/DCapulot/MDC.git
 ```
 
 ### 2. Entre na pasta do projeto
 
 ```bash
-cd SEU-REPOSITORIO
+cd MDC
 ```
 
 ### 3. Compile o programa
@@ -52,7 +52,7 @@ cd SEU-REPOSITORIO
 Utilizando o GCC:
 
 ```bash
-gcc main.c -o mdc
+gcc mdc.c -o mdc
 ```
 
 ### 4. Execute
@@ -72,9 +72,9 @@ mdc.exe
 ## 💻 Exemplo de execução
 
 ```
-Digite o primeiro número: 48
-Digite o segundo número: 18
-O MDC de 48 e 18 é: 6
+Digite o primeiro numero: 48
+Digite o segundo numero: 18
+O MDC de 48 e 18 e: 6
 ```
 
 ## 🧠 Conceito de recursão
