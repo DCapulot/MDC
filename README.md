@@ -110,6 +110,6 @@ O projeto tem como objetivo prático:
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**David Capulot Corrêa**
 
 Projeto desenvolvido para fins acadêmicos.
